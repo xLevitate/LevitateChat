@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LevitateChat:jar">
+    <output-path>$PROJECT_DIR$/../TestServer/plugins</output-path>
+    <root id="archive" name="LevitateChat.jar">
+      <element id="module-output" name="LevitateChat" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

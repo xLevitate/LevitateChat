@@ -1,0 +1,10 @@
+name: LevitateChat
+main: me.levitate.levitatechat.Main
+author: Levitate
+version: 1.0
+commands:
+  chat:
+    description: Command used to toggle and clear the chat.
+  staffchat:
+    description: Command used by staff members to communicate.
+    aliases: [sc, staff, schat]
